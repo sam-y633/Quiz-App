@@ -20,9 +20,6 @@ This project is a comprehensive quiz platform with environment testing capabilit
 
 https://github.com/user-attachments/assets/08d4b593-41a3-487f-8980-41e3454f120b
 
-![alt text](image.png)
-
-![alt text](image-1.png)
 
 ### EmailJS Code Snippet
 
@@ -103,7 +100,7 @@ The project is divided into two main directories:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/skp3214/AssessNet-CipherSchools.git
+   git clone https://github.com/sam-y633/Quiz-App-CipherSchools.git
    cd AssessNet
    ```
 
